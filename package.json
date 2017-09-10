@@ -1,0 +1,21 @@
+{
+  "name": "coffeeorbeer",
+  "version": "1.0.0",
+  "description": "Node Js test project with angular js 1.6",
+  "main": "application.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rk8650/CoffeeOrBeer.git"
+  },
+  "author": "rahul kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rk8650/CoffeeOrBeer/issues"
+  },
+  "homepage": "https://github.com/rk8650/CoffeeOrBeer#readme"
+}
